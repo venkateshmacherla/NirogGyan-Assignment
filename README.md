@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NirogGyan Healthcare Appointment Booking
 
 ## Overview
@@ -40,3 +41,6 @@ Built with React (JavaScript), using Bootstrap for styling, and mock JSON data.
 1. Clone the repository  
 2. Run `npm install` to install dependencies  
 3. Run `npm start` to launch the application at `http://localhost:3000`  
+=======
+# NirogGyan-Assignment
+>>>>>>> cdb14104d0c47f0f40e815cb4a83973111b5d8a7
